@@ -17,5 +17,6 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "arm64-v8a"
 build-mode = "both"
 version = "latest"
-included-patches = "'Theme' 'Hide video action buttons' 'Navigation buttons' 'Spoof app version' 'Disable auto captions' 'Custom branding' 'Premium heading' 'Change start page' 'Player flyout menu' 'External downloads' 'Copy video url' 'Seekbar tapping' 'Enable slide to seek' 'Remember video quality' 'Video ads' 'Hide ads' 'Minimized playback' 'Enable debugging' 'Open links externally' 'Bypass URL redirects' 'Remove tracking query parameter' 'Client spoof' 'GmsCore support' 'Spoof device dimensions' 'Announcements'"
+included-patches = "'Theme' 'Hide video action buttons' 'Navigation buttons' 'Spoof app version' 'Disable auto captions' 'Premium heading' 'Change start page' 'Player flyout menu' 'External downloads' 'Copy video url' 'Seekbar tapping' 'Enable slide to seek' 'Remember video quality' 'Video ads' 'Hide ads' 'Minimized playback' 'Enable debugging' 'Open links externally' 'Bypass URL redirects' 'Remove tracking query parameter' 'Client spoof' 'GmsCore support' 'Spoof device dimensions' 'Announcements'"
 exclusive-patches = true
+
