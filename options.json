@@ -1,10 +1,11 @@
+        
 [
   {
     "patchName": "Custom branding",
     "options": [
       {
         "key": "appName",
-        "value": "YouTube"
+        "value": "YouTube "
       }
     ]
   }
