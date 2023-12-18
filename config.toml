@@ -8,8 +8,14 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+arch = "arm64-v8a"
+build-mode = "both"
+version = "latest"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-included-patches = "'Tablet mini player' 'Navigation buttons' 'Spoof app version' 'Disable auto captions' 'Custom branding' 'Premium heading' 'Change start page' 'Custom player overlay opacity' 'External downloads' 'Copy video url' 'Seekbar tapping' 'Enable slide to seek' 'Remember video quality' 'Playback speed' 'Video ads' 'Hide ads' 'Minimized playback' 'Enable debugging' 'Open links externally' 'Bypass URL redirects' 'Always autorepeat' 'Remove tracking query parameter' 'Client spoof' 'GmsCore support' 'Spoof device dimensions' 'Announcements' 'Disable zoom haptics'"
+arch = "arm64-v8a"
+build-mode = "both"
+version = "latest"
+included-patches = "'Spoof app version' 'Disable auto captions' 'Custom branding' 'Premium heading' 'Alternative thumbnails' 'External downloads' 'Copy video url' 'Seekbar tapping' 'Enable slide to seek' 'Remember video quality' 'Video ads' 'Hide ads' 'Minimized playback' 'Enable debugging' 'Open links externally' 'Bypass URL redirects' 'Always autorepeat' 'Remove tracking query parameter' 'Client spoof' 'GmsCore support' 'Spoof device dimensions' 'Announcements' 'Disable zoom haptics'"
 exclusive-patches = true
